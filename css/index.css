@@ -1,0 +1,18 @@
+#hx>li>a{
+    color: white;
+}
+#hx>li>a:hover{
+    text-decoration: none;
+    transition:All 1s ease-in-out;
+    -webkit-transition:All 1s ease-in-out;   
+    -moz-transition:All 1s ease-in-out;    
+    -o-transition:All 1s ease-in-out;   
+    transform:rotate(40deg);font-size:25px;    
+    -webkit-transform:rotate(40deg);font-size:25px;     
+    -moz-transform:rotate(40deg); font-size:25px;    
+    -o-transform:rotate(40deg);font-size:25px;     
+    -ms-transform:rotate(40deg);font-size:25px; 
+}
+.container-fluid p,h3{
+    color: #A58B66;
+}
